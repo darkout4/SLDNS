@@ -1,8 +1,13 @@
 [
   {
     "nome": "RTP 1",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8",
+    "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8",
     "icone": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png"
+  },
+  {
+    "nome": "RTP 2",
+    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8",
+    "icone": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png"
   },
   {
     "nome": "RTP3",
