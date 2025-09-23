@@ -1,13 +1,8 @@
 [
   {
-    "nome": "RTP 1",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8",
-    "icone": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png"
-  },
-  {
-    "nome": "RTP 2",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8",
-    "icone": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png"
+    "nome": "SIC",
+    "url": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8",
+    "icone": "https://upload.wikimedia.org/wikipedia/fr/3/31/SIC_logo_2018.png"
   },
   {
     "nome": "RTP3",
@@ -15,9 +10,9 @@
     "icone": "https://upload.wikimedia.org/wikipedia/commons/0/0d/RTP3_logo.svg"
   },
   {
-    "nome": "SicK",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/18_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png"
+    "nome": "Porto Canal",
+    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/558_.m3u8",
+    "icone": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Porto_Canal_logo.jpg"
   },
   {
     "nome": "CNN",
@@ -25,19 +20,14 @@
     "icone": "https://upload.wikimedia.org/wikipedia/commons/9/9d/CNN_Logo_%282014%29.svg"
   },
   {
-    "nome": "SIC",
-    "url": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/fr/3/31/SIC_logo_2018.png"
+    "nome": "SIC Notícias",
+    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/88_.m3u8",
+    "icone": "https://upload.wikimedia.org/wikipedia/commons/0/05/SIC_Not%C3%ADcias_%282023%29.png"
   },
   {
-    "nome": "Eurosport 1",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/86_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_1_Logo_2015.svg"
-  },
-  {
-    "nome": "Eurosport 2",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/87_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Eurosport_2_Logo_2015.svg"
+    "nome": "Euronews",
+    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/337_.m3u8",
+    "icone": "https://upload.wikimedia.org/wikipedia/commons/4/46/Euronews_2016_logo.svg"
   },
   {
     "nome": "SIC Mulher",
@@ -45,24 +35,9 @@
     "icone": "https://upload.wikimedia.org/wikipedia/commons/c/c9/SIC_Mulher_2023.svg"
   },
   {
-    "nome": "National Geographic",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/117_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg"
-  },
-  {
-    "nome": "Baby TV",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/126_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png"
-  },
-  {
-    "nome": "Disney Channel",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/129_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg"
-  },
-  {
-    "nome": "MTV",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/145_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png"
+    "nome": "RTP Memória",
+    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/395_.m3u8",
+    "icone": "https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png"
   },
   {
     "nome": "DAZN 1",
@@ -83,11 +58,6 @@
     "nome": "DAZN 5",
     "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/331_.m3u8",
     "icone": "https://tv-sports.fr/photos/chaines/svg/204.svg"
-  },
-  {
-    "nome": "RTP Memória",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/395_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png"
   },
   {
     "nome": "SportTV 1",
@@ -115,19 +85,44 @@
     "icone": "https://upload.wikimedia.org/wikipedia/commons/7/74/Sport_TV6_%282023%29.svg"
   },
   {
+    "nome": "Eurosport 1",
+    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/86_.m3u8",
+    "icone": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_1_Logo_2015.svg"
+  },
+  {
+    "nome": "Eurosport 2",
+    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/87_.m3u8",
+    "icone": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Eurosport_2_Logo_2015.svg"
+  },
+  {
+    "nome": "SicK",
+    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/18_.m3u8",
+    "icone": "https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png"
+  },
+  {
+    "nome": "Disney Channel",
+    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/129_.m3u8",
+    "icone": "https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg"
+  },
+  {
+    "nome": "Baby TV",
+    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/126_.m3u8",
+    "icone": "https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png"
+  },
+  {
+    "nome": "National Geographic",
+    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/117_.m3u8",
+    "icone": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg"
+  },
+  {
     "nome": "24kitchen",
     "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/508_.m3u8",
     "icone": "https://upload.wikimedia.org/wikipedia/commons/8/89/24kitchen.png"
   },
   {
-    "nome": "Porto Canal",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/558_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Porto_Canal_logo.jpg"
-  },
-  {
-    "nome": "SIC Notícias",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/88_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/commons/0/05/SIC_Not%C3%ADcias_%282023%29.png"
+    "nome": "MTV",
+    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/145_.m3u8",
+    "icone": "https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png"
   },
   {
     "nome": "Star Movies",
@@ -143,35 +138,5 @@
     "nome": "Star Life",
     "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/164_.m3u8",
     "icone": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Star_Life_2021.svg"
-  },
-  {
-    "nome": "Playboy",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/215_.m3u8",
-    "icone": "https://raw.githubusercontent.com/tnds82/picons/refs/heads/master/PLAYBOY%20TV.png"
-  },
-  {
-    "nome": "Sextreme",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/216_.m3u8",
-    "icone": "https://mgconecta.com.br/wp-content/uploads/2020/07/sextreme.svg"
-  },
-  {
-    "nome": "Sexy Hot",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/217_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sexy_Hot_logo.png"
-  },
-  {
-    "nome": "Vénus",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/218_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_Venus_logo.svg"
-  },
-  {
-    "nome": "História 2",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/223_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"
-  },
-  {
-    "nome": "Euronews",
-    "url": "https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/337_.m3u8",
-    "icone": "https://upload.wikimedia.org/wikipedia/commons/4/46/Euronews_2016_logo.svg"
   }
 ]
