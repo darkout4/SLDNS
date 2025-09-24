@@ -1,4 +1,8 @@
-[
+{
+  "versaoApp": "1.0",
+  "apkUrl": "https://github.com/darkout4/SLDNS/raw/main/abc/FAMEL%20TV_1.0.apk",
+  "mensagem": "Nova versão disponível com correções e melhorias!",
+  "canais": [
   {
     "nome": "SIC",
     "url": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8",
