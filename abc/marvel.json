@@ -1,0 +1,33 @@
+{
+  "config": {
+    "titulo": "Filmes Marvel",
+    "wallpaper": "https://wallpapers.com/images/hd/marvel-logo-red-black-qnzw62eygh7z6u9j.jpg"
+  },
+  "filmes": [
+    {
+      "nome": "Homem de Ferro (2008)",
+      "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "id": "tt0371746"
+    },
+    {
+      "nome": "Capitão América: O Primeiro Vingador",
+      "poster": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "id": "tt0458339"
+    },
+    {
+      "nome": "Vingadores: Endgame",
+      "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "id": "tt4154796"
+    },
+    {
+      "nome": "Pantera Negra",
+      "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "id": "tt1825683"
+    },
+    {
+      "nome": "Doutor Estranho no Multiverso da Loucura",
+      "poster": "https://image.tmdb.org/t/p/w500/61PVJ06oecwvcBisoAQu6SDfdcS.jpg",
+      "id": "tt9419884"
+    }
+  ]
+}
